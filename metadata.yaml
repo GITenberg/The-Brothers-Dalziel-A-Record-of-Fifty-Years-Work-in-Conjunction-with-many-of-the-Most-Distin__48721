@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "The Brothers Dalziel\r\nA Record of Fifty Years Work in Conjunction with many\
   \ of the Most Distinguished Artists of the Period 1840-1890"
 url: http://www.gutenberg.org/ebooks/48721
